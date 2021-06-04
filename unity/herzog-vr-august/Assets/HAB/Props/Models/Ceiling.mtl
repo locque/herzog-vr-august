@@ -1,0 +1,9 @@
+newmtl __TB_empty
+map_Kd Textures\__TB_empty.png
+
+newmtl ceiling-textured
+map_Kd Textures\ceiling-textured.png
+
+newmtl mat-arch
+map_Kd Textures\mat-arch.tga
+

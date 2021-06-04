@@ -1,0 +1,7 @@
+// Game: Generic
+// Format: Valve
+// entity 0
+{
+"mapversion" "220"
+"classname" "worldspawn"
+}

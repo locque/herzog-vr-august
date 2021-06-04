@@ -1,0 +1,61 @@
+newmtl __TB_empty
+map_Kd Textures\__TB_empty.png
+
+newmtl bookshelf_0
+map_Kd Textures\bookshelf_0.jpg
+
+newmtl bookshelf_1
+map_Kd Textures\bookshelf_1.jpg
+
+newmtl bookshelf_3
+map_Kd Textures\bookshelf_3.jpg
+
+newmtl bookshelf_4
+map_Kd Textures\bookshelf_4.jpg
+
+newmtl button_woodside
+map_Kd Textures\button_woodside.tga
+
+newmtl ceiling-textured
+map_Kd Textures\ceiling-textured.png
+
+newmtl doors
+map_Kd Textures\doors.png
+
+newmtl grey
+newmtl hd_gold_trim1
+map_Kd Textures\hd_gold_trim1.tga
+
+newmtl marble
+map_Kd Textures\marble.png
+
+newmtl mat-arch
+map_Kd Textures\mat-arch.tga
+
+newmtl mat-carpet
+map_Kd Textures\mat-carpet.tga
+
+newmtl mat-catwalk
+map_Kd Textures\mat-catwalk.tga
+
+newmtl mat-onyx
+map_Kd Textures\mat-onyx.tga
+
+newmtl mat-pillartop
+map_Kd Textures\mat-pillartop.tga
+
+newmtl mat-rail
+map_Kd Textures\mat-rail.tga
+
+newmtl mat-trim
+map_Kd Textures\mat-trim.tga
+
+newmtl mat-wall
+map_Kd Textures\mat-wall.tga
+
+newmtl metal1
+map_Kd Textures\metal1.tga
+
+newmtl metal2
+map_Kd Textures\metal2.tga
+

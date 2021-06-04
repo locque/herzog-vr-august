@@ -1,0 +1,9 @@
+newmtl metal1
+map_Kd textures\metal1.tga
+
+newmtl wood_browndark
+map_Kd textures\wood_browndark.tga
+
+newmtl wood_brownlight
+map_Kd textures\wood_brownlight.tga
+

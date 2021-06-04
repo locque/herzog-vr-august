@@ -1,0 +1,15 @@
+*
+!*/
+!/.gitignore
+!/.gitattributes
+!/*.md
+!/*.txt
+!/scripts/**.sh
+!/doc/**
+!/images/**
+!/unity/herzog-vr-august/Assets/**
+/unity/herzog-vr-august/Assets/AnimatedBook/**
+!/unity/herzog-vr-august/Assets/AnimatedBook/BUYME.md
+*.xcf
+*.xcf.meta
+*.exr
