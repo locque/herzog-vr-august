@@ -14358,6 +14358,46 @@ Light:
   m_UseViewFrustumForShadowCasterCull: 1
   m_ShadowRadius: 1
   m_ShadowAngle: 0
+--- !u!1 &2082518906 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4766364722957489068, guid: ccda2cdfb40682f459f7c297282cd180, type: 3}
+  m_PrefabInstance: {fileID: 2117992621}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &2082518911
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2082518906}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 16638a77be099be4aa01acf38a466985, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  movement:
+    actionPath: /actions/default/in/MovePlayer
+    needsReinit: 0
+  acceleration: 2
+  maxVelocity: 2
+--- !u!143 &2082518912
+CharacterController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2082518906}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Height: 2
+  m_Radius: 0.5
+  m_SlopeLimit: 45
+  m_StepOffset: 0.3
+  m_SkinWidth: 0.08
+  m_MinMoveDistance: 0.001
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!1001 &2087622008
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -14686,7 +14726,8 @@ PrefabInstance:
       propertyPath: m_Name
       value: Aurich
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 2123863876206925485, guid: ccda2cdfb40682f459f7c297282cd180, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: ccda2cdfb40682f459f7c297282cd180, type: 3}
 --- !u!1 &2135165077
 GameObject:

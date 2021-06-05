@@ -1,0 +1,36 @@
+\contentsline {section}{\numberline {1}Aufgabe}{3}{section.1}%
+\contentsline {section}{\numberline {2}Vorbereitung, Tools und Frameworks}{3}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Engine}{3}{subsection.2.1}%
+\contentsline {subsubsection}{\numberline {2.1.1}Unreal Engine}{3}{subsubsection.2.1.1}%
+\contentsline {subsubsection}{\numberline {2.1.2}Source 2}{4}{subsubsection.2.1.2}%
+\contentsline {subsubsection}{\numberline {2.1.3}Unity}{5}{subsubsection.2.1.3}%
+\contentsline {subsection}{\numberline {2.2}VR-Framework}{6}{subsection.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.1}XR-Toolkit}{6}{subsubsection.2.2.1}%
+\contentsline {subsubsection}{\numberline {2.2.2}SteamVR Plugin}{7}{subsubsection.2.2.2}%
+\contentsline {subsection}{\numberline {2.3}Buch-Darstellung}{8}{subsection.2.3}%
+\contentsline {subsubsection}{\numberline {2.3.1}Bugs}{8}{subsubsection.2.3.1}%
+\contentsline {section}{\numberline {3}Entwicklung}{10}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Sprint 1 - Grundlegende Buch-Architektur}{10}{subsection.3.1}%
+\contentsline {subsubsection}{\numberline {3.1.1}PoseBlender.cs}{11}{subsubsection.3.1.1}%
+\contentsline {subsubsection}{\numberline {3.1.2}Hand.cs}{12}{subsubsection.3.1.2}%
+\contentsline {subsubsection}{\numberline {3.1.3}BookHandle.cs und BookHandleController.cs}{13}{subsubsection.3.1.3}%
+\contentsline {subsubsection}{\numberline {3.1.4}LinearDrive.cs}{14}{subsubsection.3.1.4}%
+\contentsline {subsubsection}{\numberline {3.1.5}SteamVR$\_$SkeletonPoserEditor.cs}{15}{subsubsection.3.1.5}%
+\contentsline {subsection}{\numberline {3.2}Sprint 2 - Seiten-Interaktion, Physik-Simulation und das Bücherrad}{16}{subsection.3.2}%
+\contentsline {subsubsection}{\numberline {3.2.1}CoverDrive.cs und CoverPoseBlender.cs}{16}{subsubsection.3.2.1}%
+\contentsline {subsubsection}{\numberline {3.2.2}PageDrive.cs, PagePoseBlender.cs, PagePhysicsController.cs und BookThrowable.cs}{17}{subsubsection.3.2.2}%
+\contentsline {subsubsection}{\numberline {3.2.3}WheelBoard.cs, CogController.cs und BookSitter.cs}{19}{subsubsection.3.2.3}%
+\contentsline {subsection}{\numberline {3.3}Sprint 3 - Bewegung, Audio, mehr Bücher, und die Augusteerhalle}{21}{subsection.3.3}%
+\contentsline {subsubsection}{\numberline {3.3.1}BookIndex.cs und BookComponent.cs}{21}{subsubsection.3.3.1}%
+\contentsline {subsubsection}{\numberline {3.3.2}MovementController.cs}{22}{subsubsection.3.3.2}%
+\contentsline {subsubsection}{\numberline {3.3.3}Audiosystem}{23}{subsubsection.3.3.3}%
+\contentsline {subsubsection}{\numberline {3.3.4}Buchvarianten und Posen}{24}{subsubsection.3.3.4}%
+\contentsline {subsubsection}{\numberline {3.3.5}Das Evangeliar}{25}{subsubsection.3.3.5}%
+\contentsline {subsubsection}{\numberline {3.3.6}Die Augusteerhalle}{26}{subsubsection.3.3.6}%
+\contentsline {section}{\numberline {4}Fazit und Reflektion}{28}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Entwicklung}{28}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Organisation}{29}{subsection.4.2}%
+\contentsline {section}{\numberline {5}Zukunft für das Projekt}{32}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Nahe Zukunft}{32}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Ferne Zukunft}{33}{subsection.5.2}%
+\providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 
